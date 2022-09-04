@@ -1,0 +1,33 @@
+User
+User Meta
+Product
+ProductReview
+Category
+Tag
+Order
+Cart
+Address
+
+Product
+Category
+Tag
+	show all 
+	show one 
+	add one
+	update one
+	delete one
+	
+Product
+	display belonging categories and tags
+	display product reviews
+	sort using query strings
+	
+Category
+	
+	
+
+	
+	
+
+	
+

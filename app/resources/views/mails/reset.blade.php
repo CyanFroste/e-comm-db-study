@@ -1,0 +1,1 @@
+Use the code : {{$token}} to change password.

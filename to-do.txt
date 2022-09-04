@@ -1,0 +1,21 @@
+API
+
+	product 
+	order
+	user
+	Oauth
+
+React Native APP
+
+	Oauth login
+	Product Display
+	location / delivery address
+	online gateway
+
+Synergy
+	
+	OrderBy on controllers to filter in app
+	Search
+	tags?
+	Pagination
+	implement as query strings
